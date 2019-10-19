@@ -7,4 +7,6 @@ This repo contains the assignments of the course and their solutions, using PICO
 - Assignment 2:
   - Distributionally robust optimization (DRO) for different ambiguity sets (e.g. moment-based, 1-Wasserstein and SRO), applied to the Product Mix problem.
 
+- Assignment 3:
+  - Multi-state stochastic optimization: dynamic programming, scenario trees, affinely adjusted RC -- applied to inventory control.
 
